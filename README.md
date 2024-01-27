@@ -3,10 +3,10 @@
   Software developer committed to delivering high-quality code and problem solving. I have a passion for clean code and good practices.
 </p>
 
-👨‍💻 Full Stack Developer
-🔥 Self-taught
-💬 Ask me about <strong>JavaScript, React, HTML, CSS</strong>
-⚡ Solving problems and learning new skills
+👨‍💻 Full Stack Developer <br>
+🔥 Self-taught <br>
+💬 Ask me about <strong>JavaScript, React, HTML, CSS</strong> <br>
+⚡ Solving problems and learning new skills <br>
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,angular)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,materialui)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
