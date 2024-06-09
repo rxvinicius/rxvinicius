@@ -12,9 +12,9 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,materialui,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,postgresql,mysql)](https://skillicons.dev) -->
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,materialui,redux" height="42" alt="front-end stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui,redux" height="42" alt="front-end stack" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,postgresql,mysql" height="42" alt="back-end stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,java,spring,postgresql,mysql" height="42" alt="back-end stack" />
 </div>
 
 <h2>Connect with me!</h2>
