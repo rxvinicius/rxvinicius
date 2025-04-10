@@ -1,29 +1,47 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1F6FEB&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Vinicius+%F0%9F%98%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1F6FEB&background=FFFFFF00&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Vinicius+%F0%9F%91%8B;Full+Stack+Developer)](https://git.io/typing-svg)
 
-<p>
-  Software developer committed to delivering high-quality code and problem solving. I have a passion for clean code and good practices.
+<p align="center">
+  <b>Software Developer</b> passionate about building robust, scalable and elegant applications.<br>
+  I love clean code, good practices and delivering high-quality solutions.
 </p>
 
-👨‍💻 Full Stack Developer <br>
-🔥 Self-taught <br>
-⚡ Solving problems and learning new skills <br>
+---
 
-<h2>My Skills</h2>
-<!-- [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,materialui,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,postgresql,mysql)](https://skillicons.dev) -->
+## 🚀 About Me
+
+- 🧠 Self-taught and always learning
+- ⚡ Problem-solver with a focus on performance and clean architecture
+- 💼 Currently working as a Full Stack Developer
+- 🌱 Constantly exploring new technologies and improving my skillset
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui,redux" height="42" alt="front-end stack" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,java,spring,postgresql,mysql" height="42" alt="back-end stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,materialui,redux" height="42" />
 </div>
 
-<h2>Connect with me!</h2>
+### 🧠 Backend
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=1f6feb&color:FFF)](mailto:vinicius-rodrigues2000@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1f6feb&color:FFF)](https://www.linkedin.com/in/vinicius-rodrigues-xavier)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,sequelize,java,spring,postgresql,mysql,mongodb" height="42" />
+</div>
 
-<!-- <h2>GitHub Stats</h2>
+### 🧰 Tools & Others
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rxvinicius&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=1f6feb&text_color=FFF&border_radius=3&border_color=36123c&icon_color=1f6feb&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rxvinicius&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=1f6feb&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/rxvinicius/github-readme-stats)
--->
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,graphql,jest,git,github" height="42" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514998481539)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:vinicius-rodrigues2000@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-rodrigues-xavier)
+
+---
+
+> _“Great developers write code that humans can understand.”_ — Martin Fowler
